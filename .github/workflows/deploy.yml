@@ -36,6 +36,6 @@ jobs:
         with:
           project: "alexlg-pcb-api-866"
           entrypoint: "main.ts"
-          root: "/"
+          root: "./"
           
           
